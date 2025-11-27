@@ -5,8 +5,8 @@ Welcome to my GitHub profile!
 
 ###  About Me
 
-👨‍💻 Skilled in full-stack development
-💻 Experienced in building and deploying performant web apps
+👨‍💻 Skilled in full-stack development <br>
+💻 Experienced in building and deploying performant web apps <br>
 🎯 Always learning new tools and frameworks
 
 ---
