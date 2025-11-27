@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Pradeep 👋
+
+Welcome to my GitHub profile!
+---
+
+###  About Me
+
+👨‍💻 Skilled in full-stack development
+💻 Experienced in building and deploying performant web apps
+🎯 Always learning new tools and frameworks
+
+---
+
+### 📫 Connect with me
+
+- [LinkedIn](https://linkedin.com/in/pradeepvrm)
+- [GitHub](https://github.com/pradeepvrm)
+- [Email](mailto:pradeepkv012@gmail.com)
+
+---
+
+✨ Check out my [portfolio](https://pradeepvrm.github.io)
 
 <!--
 **pradeepvrm/pradeepvrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
